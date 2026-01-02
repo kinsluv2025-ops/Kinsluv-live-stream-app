@@ -1,0 +1,10 @@
+{
+  "name": "Kinsluv Live Stream",
+  "description": "Experience real-time AI interactions in a social live streaming environment. Chat, speak, and connect with AI personalities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "resolution": "390x844"
+}
